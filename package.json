@@ -1,0 +1,8 @@
+{
+  "name": "richmessagebot-automated-tests",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
